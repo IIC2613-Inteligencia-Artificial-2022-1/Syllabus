@@ -6,11 +6,23 @@ Este es el repositorio principal del curso de IIC2613 - Inteligencia Artificial 
 
 ### Equipo Docente
 
-| Cargo         | Nombre               | Github            
-|---------------|----------------------|-------------------|
-| Profesor      | Jorge Baier          | jabaier           |
-| Profesor      | Andrés Villa         | ojedaf            |
-| Coordinador   | Fernando Balladares  | FeBalla           |
+| Cargo             | Nombre               | Github            
+|-------------------|----------------------|-------------------|
+| Profesor          | Jorge Baier          | jabaier           |
+| Profesor          | Alain Raymond        | alainray          |
+| Coordinador       | Fernando Balladares  | FeBalla           |
+| Ayudante mentor   | Vicente Vega         | vicentevegaulloa  |
+| Ayudante mentor   | Sarah Everke         | SarahEverke       |
+| Ayudante mentor   | Rafael Elberg        | SugarFreeManatee  |
+| Ayudante mentor   | Felipe Guzmán        | vWing7            |
+| Ayudante mentor   | Pavel Medina         | aamedinaj         |
+| Ayudante          | Daniel Florea        | dfloreaa          |
+| Ayudante          | Catalina Álamos      | CataAlamos        |
+| Ayudante          | Ignacio Urrutia      | ignacio-urrutia   |
+| Ayudante          | Nicolás Barrías      | nbarriav          |
+| Ayudante          | Ignacio Villanueva   | ignaciovilla      |
+| Ayudante          | Roberto Vidal        | robertov1         |
+| Ayudante          | Andrés Catalán       | andrescf          |
 
 ### Contacto
 
