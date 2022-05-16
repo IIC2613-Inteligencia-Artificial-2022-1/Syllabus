@@ -1,0 +1,19 @@
+[
+  {
+    "type": "dog",
+    "name": "Duke",
+    "favorite_foods": [
+      "chicken",
+      "salmon",
+      "carrots"
+    ]
+  },
+  {
+    "type": "cat",
+    "name": "Fluffy",
+    "favorite_foods": [
+      "tuna",
+      "turkey"
+    ]
+  }
+]
