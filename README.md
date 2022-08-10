@@ -10,8 +10,7 @@ Este es el repositorio principal del curso de IIC2613 - Inteligencia Artificial 
 |-------------------|----------------------|-------------------|
 | Profesor          | Jorge Baier          | jabaier           |
 | Profesor          | Alain Raymond        | alainray          |
-| Coordinador       | Fernando Balladares  | FeBalla           |
-| Ayudante mentor   | Vicente Vega         | vicentevegaulloa  |
+| Coordinador       | Vicente Vega         | FeBalla           |
 | Ayudante mentor   | Sarah Everke         | SarahEverke       |
 | Ayudante mentor   | Rafael Elberg        | SugarFreeManatee  |
 | Ayudante mentor   | Felipe Guzmán        | vWing7            |
